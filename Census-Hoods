@@ -1,0 +1,109 @@
+#### Census API to Pittsburgh Neighborhood Conversion Tutorial ####
+
+#load packages 
+install.packages("tidyverse", dependencies = TRUE)
+install.packages("stringr", dependencies = TRUE)
+install.packages("sf", dependencies = TRUE) #spatial data manipulation
+install.packages("sp", dependencies = TRUE) #spatial data manipulation
+install.packages("mapview", dependencies = TRUE) #mapping display
+install.packages("tmap", dependencies = TRUE) #mapping display
+install.packages("tidycensus", dependencies = TRUE) #census package
+install.packages("tigris", dependencies = TRUE)
+install.packages("devtools") # for this, you need Rtools installed on your machine 
+install.packages("raster") #raster manipulation package
+install.packages("ggpubr")
+install.packages("httr", dependencies = TRUE)
+install.packages("jsonlite", dependencies = TRUE)
+install.packages("viridis", dependencies = TRUE)
+install.packages("ggplot2") #mapping package
+install.packages("ggmap") #mapping package
+install.packages("tidyselect", dependencies = TRUE)
+install.packages("xml2", dependencies = TRUE)
+install.packages("units",dependencies = TRUE)
+install.packages("rlang", dependencies = TRUE)
+install.packages("crayon", dependencies = TRUE)
+install.packages("RJSONIO")
+
+#set working directory (this is where all of your data will save, where the .R file is saved, and where any data you call needs to be saved)
+#key from this link:http://api.census.gov/data/key_signup.html 
+getwd()
+setwd("YOUR PATH HERE")
+apikey <- "YOUR KEY HERE"
+
+#load packages into your local environment
+library(ggmap)
+library(ggplot2)
+library(jsonlite)
+library(viridis)
+library(httr)
+library(ggpubr)
+library(tidyverse)
+library(stringr)     # for working with strings (pattern matching)
+library(raster)
+library(sf)          # classes and functions for vector data
+library(sp)
+library(mapview)
+library(tmap)
+library(devtools)
+library(tidycensus)
+library(tigris)
+library(lehdr)
+library(tidyselect)
+library(xml2)
+library(units)
+library(rlang)
+library(crayon)
+library(RJSONIO)
+
+#load in your api key
+#set your variables, change the year or survey code to the data you want to pull.
+census_api_key(apikey, overwrite=TRUE, install = TRUE)
+readRenviron("~/.Renviron") # First time, reload your environment so you can use the key without restarting R.
+Sys.getenv("census_api_key") #check to make sure your key loaded correctly
+year <- 2024
+geo_select <- "PA"
+vars <- load_variables(2024, "acs5")
+
+
+# Read the CSV file of census codes you want to pull into a data frame
+# Extract the column as a vector
+
+df <- read.csv("Data2024.csv")
+ask <- df$Code
+
+
+# For each row in the code column of the csv, download the census field for your selected geometries.
+PA_acs <- get_acs(state = geo_select, county = c("Allegheny"), 
+                       geography = "tract", year = year, 
+                       variables = c(ask),
+                       output = "wide",
+                       geometry = FALSE) %>% 
+  dplyr::select(!ends_with("M"))
+
+# Import the Conversion csv, ensure GEOID is set to Character
+library(readr)
+convert <- read_csv("x2020.csv", col_types = cols(GEOID = col_character()))
+
+# Join the conversion csv table with your census data, multiply each row against the conversion %.
+Hood <- PA_acs %>%
+  left_join(convert, by = "GEOID") %>%
+  mutate(
+    across(
+      .cols = ends_with("E") & !NAME,
+      .fns = list(mod = ~ .x * Conversion),
+      .names = "{.col}mod"
+    )
+  )
+
+# Aggregate all fields by the neighborhood tag in the conversion csv, creating a row for each hood.
+Hoodtotals <- summarise(
+  group_by(Hood, Neighborhood),
+  across(
+    .cols = ends_with("mod"),
+    .fns = list(sum = ~ sum(.x, na.rm = TRUE)),
+    .names = "{.col}"
+  )
+)
+
+# Export a CSV of your results!
+write_csv(Hoodtotals, "Hoodtotals.csv")
