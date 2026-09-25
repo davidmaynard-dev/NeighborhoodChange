@@ -1,0 +1,29 @@
+Code,Name
+DP02_0016,Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Average household size
+DP02_0017,Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Average family size
+DP03_0009,Estimate!!EMPLOYMENT STATUS!!Civilian labor force!!Unemployment Rate
+DP03_0062,Estimate!!INCOME AND BENEFITS (IN 2019 INFLATION-ADJUSTED DOLLARS)!!Total households!!Median household income (dollars)
+DP03_0063,Estimate!!INCOME AND BENEFITS (IN 2019 INFLATION-ADJUSTED DOLLARS)!!Total households!!Mean household income (dollars)
+DP03_0065,Estimate!!INCOME AND BENEFITS (IN 2019 INFLATION-ADJUSTED DOLLARS)!!Total households!!With earnings!!Mean earnings (dollars)
+DP03_0067,Estimate!!INCOME AND BENEFITS (IN 2019 INFLATION-ADJUSTED DOLLARS)!!Total households!!With Social Security!!Mean Social Security income (dollars)
+DP03_0069,Estimate!!INCOME AND BENEFITS (IN 2019 INFLATION-ADJUSTED DOLLARS)!!Total households!!With retirement income!!Mean retirement income (dollars)
+DP03_0071,Estimate!!INCOME AND BENEFITS (IN 2019 INFLATION-ADJUSTED DOLLARS)!!Total households!!With Supplemental Security Income!!Mean Supplemental Security Income (dollars)
+DP03_0073,Estimate!!INCOME AND BENEFITS (IN 2019 INFLATION-ADJUSTED DOLLARS)!!Total households!!With cash public assistance income!!Mean cash public assistance income (dollars)
+DP03_0086,Estimate!!INCOME AND BENEFITS (IN 2019 INFLATION-ADJUSTED DOLLARS)!!Families!!Median family income (dollars)
+DP03_0087,Estimate!!INCOME AND BENEFITS (IN 2019 INFLATION-ADJUSTED DOLLARS)!!Families!!Mean family income (dollars)
+DP03_0088,Estimate!!INCOME AND BENEFITS (IN 2019 INFLATION-ADJUSTED DOLLARS)!!Per capita income (dollars)
+DP03_0090,Estimate!!INCOME AND BENEFITS (IN 2019 INFLATION-ADJUSTED DOLLARS)!!Nonfamily households!!Median nonfamily income (dollars)
+DP03_0091,Estimate!!INCOME AND BENEFITS (IN 2019 INFLATION-ADJUSTED DOLLARS)!!Nonfamily households!!Mean nonfamily income (dollars)
+DP03_0092,Estimate!!INCOME AND BENEFITS (IN 2019 INFLATION-ADJUSTED DOLLARS)!!Median earnings for workers (dollars)
+DP03_0093,"Estimate!!INCOME AND BENEFITS (IN 2019 INFLATION-ADJUSTED DOLLARS)!!Median earnings for male full-time, year-round workers (dollars)"
+DP03_0094,"Estimate!!INCOME AND BENEFITS (IN 2019 INFLATION-ADJUSTED DOLLARS)!!Median earnings for female full-time, year-round workers (dollars)"
+DP04_0004,Estimate!!HOUSING OCCUPANCY!!Total housing units!!Homeowner vacancy rate
+DP04_0005,Estimate!!HOUSING OCCUPANCY!!Total housing units!!Rental vacancy rate
+DP04_0037,Estimate!!ROOMS!!Total housing units!!Median rooms
+DP04_0048,Estimate!!HOUSING TENURE!!Occupied housing units!!Average household size of owner-occupied unit
+DP04_0049,Estimate!!HOUSING TENURE!!Occupied housing units!!Average household size of renter-occupied unit
+DP04_0089,Estimate!!VALUE!!Owner-occupied units!!Median (dollars)
+DP04_0101,Estimate!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units with a mortgage!!Median (dollars)
+DP04_0102,Estimate!!SELECTED MONTHLY OWNER COSTS (SMOC)!!Housing units without a mortgage
+DP04_0134,Estimate!!GROSS RENT!!Occupied units paying rent!!Median (dollars)
+DP05_0018,Estimate!!SEX AND AGE!!Total population!!Median age (years)

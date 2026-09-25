@@ -1,0 +1,394 @@
+Code,Name
+DP02_0001,Estimate!!HOUSEHOLDS BY TYPE!!Total households
+DP02_0002,Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Married-couple family
+DP02_0003,Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Married-couple family!!With own children of the householder under 18 years
+DP02_0018,Estimate!!RELATIONSHIP!!Population in households
+DP02_0019,Estimate!!RELATIONSHIP!!Population in households!!Householder
+DP02_0020,Estimate!!RELATIONSHIP!!Population in households!!Spouse
+DP02_0021,Estimate!!RELATIONSHIP!!Population in households!!Unmarried partner
+DP02_0022,Estimate!!RELATIONSHIP!!Population in households!!Child
+DP02_0023,Estimate!!RELATIONSHIP!!Population in households!!Other relatives
+DP02_0024,Estimate!!RELATIONSHIP!!Population in households!!Other nonrelatives
+DP02_0025,Estimate!!MARITAL STATUS!!Males 15 years and over
+DP02_0026,Estimate!!MARITAL STATUS!!Males 15 years and over!!Never married
+DP02_0027,"Estimate!!MARITAL STATUS!!Males 15 years and over!!Now married, except separated"
+DP02_0028,Estimate!!MARITAL STATUS!!Males 15 years and over!!Separated
+DP02_0029,Estimate!!MARITAL STATUS!!Males 15 years and over!!Widowed
+DP02_0030,Estimate!!MARITAL STATUS!!Males 15 years and over!!Divorced
+DP02_0031,Estimate!!MARITAL STATUS!!Females 15 years and over
+DP02_0032,Estimate!!MARITAL STATUS!!Females 15 years and over!!Never married
+DP02_0033,"Estimate!!MARITAL STATUS!!Females 15 years and over!!Now married, except separated"
+DP02_0034,Estimate!!MARITAL STATUS!!Females 15 years and over!!Separated
+DP02_0035,Estimate!!MARITAL STATUS!!Females 15 years and over!!Widowed
+DP02_0036,Estimate!!MARITAL STATUS!!Females 15 years and over!!Divorced
+DP02_0037,Estimate!!FERTILITY!!Number of women 15 to 50 years old who had a birth in the past 12 months
+DP02_0038,"Estimate!!FERTILITY!!Number of women 15 to 50 years old who had a birth in the past 12 months!!Unmarried women (widowed, divorced, and never married)"
+DP02_0039,"Estimate!!FERTILITY!!Number of women 15 to 50 years old who had a birth in the past 12 months!!Unmarried women (widowed, divorced, and never married)!!Per 1,000 unmarried women"
+DP02_0040,"Estimate!!FERTILITY!!Number of women 15 to 50 years old who had a birth in the past 12 months!!Per 1,000 women 15 to 50 years old"
+DP02_0041,"Estimate!!FERTILITY!!Number of women 15 to 50 years old who had a birth in the past 12 months!!Per 1,000 women 15 to 19 years old"
+DP02_0042,"Estimate!!FERTILITY!!Number of women 15 to 50 years old who had a birth in the past 12 months!!Per 1,000 women 20 to 34 years old"
+DP02_0043,"Estimate!!FERTILITY!!Number of women 15 to 50 years old who had a birth in the past 12 months!!Per 1,000 women 35 to 50 years old"
+DP02_0044,Estimate!!GRANDPARENTS!!Number of grandparents living with own grandchildren under 18 years
+DP02_0045,Estimate!!GRANDPARENTS!!Number of grandparents living with own grandchildren under 18 years!!Grandparents responsible for grandchildren
+DP02_0046,Estimate!!GRANDPARENTS!!Number of grandparents living with own grandchildren under 18 years!!Years responsible for grandchildren!!Less than 1 year
+DP02_0047,Estimate!!GRANDPARENTS!!Number of grandparents living with own grandchildren under 18 years!!Years responsible for grandchildren!!1 or 2 years
+DP02_0048,Estimate!!GRANDPARENTS!!Number of grandparents living with own grandchildren under 18 years!!Years responsible for grandchildren!!3 or 4 years
+DP02_0049,Estimate!!GRANDPARENTS!!Number of grandparents living with own grandchildren under 18 years!!Years responsible for grandchildren!!5 or more years
+DP02_0050,Estimate!!GRANDPARENTS!!Number of grandparents responsible for own grandchildren under 18 years
+DP02_0051,Estimate!!GRANDPARENTS!!Number of grandparents responsible for own grandchildren under 18 years!!Who are female
+DP02_0052,Estimate!!GRANDPARENTS!!Number of grandparents responsible for own grandchildren under 18 years!!Who are married
+DP02_0053,Estimate!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school
+DP02_0054,"Estimate!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!Nursery school, preschool"
+DP02_0055,Estimate!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!Kindergarten
+DP02_0056,Estimate!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!Elementary school (grades 1-8)
+DP02_0057,Estimate!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!High school (grades 9-12)
+DP02_0058,Estimate!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school!!College or graduate school
+DP02_0059,Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over
+DP02_0060,Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than 9th grade
+DP02_0061,"Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!9th to 12th grade, no diploma"
+DP02_0062,Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate (includes equivalency)
+DP02_0063,"Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college, no degree"
+DP02_0064,Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Associate's degree
+DP02_0065,Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree
+DP02_0066,Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Graduate or professional degree
+DP02_0067,Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate or higher
+DP02_0068,Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree or higher
+DP02_0069,Estimate!!VETERAN STATUS!!Civilian population 18 years and over
+DP02_0070,Estimate!!VETERAN STATUS!!Civilian population 18 years and over!!Civilian veterans
+DP02_0071,Estimate!!DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION!!Total Civilian Noninstitutionalized Population
+DP02_0072,Estimate!!DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION!!Total Civilian Noninstitutionalized Population!!With a disability
+DP02_0073,Estimate!!DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION!!Under 18 years
+DP02_0074,Estimate!!DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION!!Under 18 years!!With a disability
+DP02_0075,Estimate!!DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION!!18 to 64 years
+DP02_0076,Estimate!!DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION!!18 to 64 years!!With a disability
+DP02_0077,Estimate!!DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION!!65 years and over
+DP02_0078,Estimate!!DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION!!65 years and over!!With a disability
+DP02_0079,Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over
+DP02_0080,Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Same house
+DP02_0081,Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the U.S.
+DP02_0082,Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the U.S.!!Same county
+DP02_0083,Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the U.S.!!Different county
+DP02_0084,Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the U.S.!!Different county!!Same state
+DP02_0085,Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Different house in the U.S.!!Different county!!Different state
+DP02_0086,Estimate!!RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Abroad
+DP02_0087,Estimate!!PLACE OF BIRTH!!Total population
+DP02_0088,Estimate!!PLACE OF BIRTH!!Total population!!Native
+DP02_0089,Estimate!!PLACE OF BIRTH!!Total population!!Native!!Born in United States
+DP02_0090,Estimate!!PLACE OF BIRTH!!Total population!!Native!!Born in United States!!State of residence
+DP02_0091,Estimate!!PLACE OF BIRTH!!Total population!!Native!!Born in United States!!Different state
+DP02_0092,"Estimate!!PLACE OF BIRTH!!Total population!!Native!!Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)"
+DP02_0093,Estimate!!PLACE OF BIRTH!!Total population!!Foreign born
+DP02_0094,Estimate!!U.S. CITIZENSHIP STATUS!!Foreign-born population
+DP02_0095,Estimate!!U.S. CITIZENSHIP STATUS!!Foreign-born population!!Naturalized U.S. citizen
+DP02_0096,Estimate!!U.S. CITIZENSHIP STATUS!!Foreign-born population!!Not a U.S. citizen
+DP02_0097,Estimate!!YEAR OF ENTRY!!Population born outside the United States
+DP02_0098,Estimate!!YEAR OF ENTRY!!Population born outside the United States!!Native
+DP02_0099,Estimate!!YEAR OF ENTRY!!Population born outside the United States!!Native!!Entered 2010 or later
+DP02_0100,Estimate!!YEAR OF ENTRY!!Population born outside the United States!!Native!!Entered before 2010
+DP02_0101,Estimate!!YEAR OF ENTRY!!Population born outside the United States!!Foreign born
+DP02_0102,Estimate!!YEAR OF ENTRY!!Population born outside the United States!!Foreign born!!Entered 2010 or later
+DP02_0103,Estimate!!YEAR OF ENTRY!!Population born outside the United States!!Foreign born!!Entered before 2010
+DP02_0104,"Estimate!!WORLD REGION OF BIRTH OF FOREIGN BORN!!Foreign-born population, excluding population born at sea"
+DP02_0105,"Estimate!!WORLD REGION OF BIRTH OF FOREIGN BORN!!Foreign-born population, excluding population born at sea!!Europe"
+DP02_0106,"Estimate!!WORLD REGION OF BIRTH OF FOREIGN BORN!!Foreign-born population, excluding population born at sea!!Asia"
+DP02_0107,"Estimate!!WORLD REGION OF BIRTH OF FOREIGN BORN!!Foreign-born population, excluding population born at sea!!Africa"
+DP02_0108,"Estimate!!WORLD REGION OF BIRTH OF FOREIGN BORN!!Foreign-born population, excluding population born at sea!!Oceania"
+DP02_0109,"Estimate!!WORLD REGION OF BIRTH OF FOREIGN BORN!!Foreign-born population, excluding population born at sea!!Latin America"
+DP02_0110,"Estimate!!WORLD REGION OF BIRTH OF FOREIGN BORN!!Foreign-born population, excluding population born at sea!!Northern America"
+DP02_0111,Estimate!!LANGUAGE SPOKEN AT HOME!!Population 5 years and over
+DP02_0112,Estimate!!LANGUAGE SPOKEN AT HOME!!Population 5 years and over!!English only
+DP02_0113,Estimate!!LANGUAGE SPOKEN AT HOME!!Population 5 years and over!!Language other than English
+DP02_0114,"Estimate!!LANGUAGE SPOKEN AT HOME!!Population 5 years and over!!Language other than English!!Speak English less than very well"""""
+DP02_0115,Estimate!!LANGUAGE SPOKEN AT HOME!!Population 5 years and over!!Spanish
+DP02_0116,"Estimate!!LANGUAGE SPOKEN AT HOME!!Population 5 years and over!!Spanish!!Speak English less than very well"""""
+DP02_0117,Estimate!!LANGUAGE SPOKEN AT HOME!!Population 5 years and over!!Other Indo-European languages
+DP02_0118,"Estimate!!LANGUAGE SPOKEN AT HOME!!Population 5 years and over!!Other Indo-European languages!!Speak English less than very well"""""
+DP02_0119,Estimate!!LANGUAGE SPOKEN AT HOME!!Population 5 years and over!!Asian and Pacific Islander languages
+DP02_0120,"Estimate!!LANGUAGE SPOKEN AT HOME!!Population 5 years and over!!Asian and Pacific Islander languages!!Speak English less than very well"""""
+DP02_0121,Estimate!!LANGUAGE SPOKEN AT HOME!!Population 5 years and over!!Other languages
+DP02_0122,"Estimate!!LANGUAGE SPOKEN AT HOME!!Population 5 years and over!!Other languages!!Speak English less than very well"""""
+DP02_0123,Estimate!!ANCESTRY!!Total population
+DP02_0124,Estimate!!ANCESTRY!!Total population!!American
+DP02_0125,Estimate!!ANCESTRY!!Total population!!Arab
+DP02_0126,Estimate!!ANCESTRY!!Total population!!Czech
+DP02_0127,Estimate!!ANCESTRY!!Total population!!Danish
+DP02_0128,Estimate!!ANCESTRY!!Total population!!Dutch
+DP02_0129,Estimate!!ANCESTRY!!Total population!!English
+DP02_0130,Estimate!!ANCESTRY!!Total population!!French (except Basque)
+DP02_0131,Estimate!!ANCESTRY!!Total population!!French Canadian
+DP02_0132,Estimate!!ANCESTRY!!Total population!!German
+DP02_0133,Estimate!!ANCESTRY!!Total population!!Greek
+DP02_0134,Estimate!!ANCESTRY!!Total population!!Hungarian
+DP02_0135,Estimate!!ANCESTRY!!Total population!!Irish
+DP02_0136,Estimate!!ANCESTRY!!Total population!!Italian
+DP02_0137,Estimate!!ANCESTRY!!Total population!!Lithuanian
+DP02_0138,Estimate!!ANCESTRY!!Total population!!Norwegian
+DP02_0139,Estimate!!ANCESTRY!!Total population!!Polish
+DP02_0140,Estimate!!ANCESTRY!!Total population!!Portuguese
+DP02_0141,Estimate!!ANCESTRY!!Total population!!Russian
+DP02_0142,Estimate!!ANCESTRY!!Total population!!Scotch-Irish
+DP02_0143,Estimate!!ANCESTRY!!Total population!!Scottish
+DP02_0144,Estimate!!ANCESTRY!!Total population!!Slovak
+DP02_0145,Estimate!!ANCESTRY!!Total population!!Subsaharan African
+DP02_0146,Estimate!!ANCESTRY!!Total population!!Swedish
+DP02_0147,Estimate!!ANCESTRY!!Total population!!Swiss
+DP02_0148,Estimate!!ANCESTRY!!Total population!!Ukrainian
+DP02_0149,Estimate!!ANCESTRY!!Total population!!Welsh
+DP02_0150,Estimate!!ANCESTRY!!Total population!!West Indian (excluding Hispanic origin groups)
+DP02_0151,Estimate!!COMPUTERS AND INTERNET USE!!Total households
+DP02_0152,Estimate!!COMPUTERS AND INTERNET USE!!Total households!!With a computer
+DP02_0153,Estimate!!COMPUTERS AND INTERNET USE!!Total households!!With a broadband Internet subscription
+DP03_0001,Estimate!!EMPLOYMENT STATUS!!Population 16 years and over
+DP03_0002,Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force
+DP03_0003,Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force
+DP03_0004,Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Employed
+DP03_0005,Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Civilian labor force!!Unemployed
+DP03_0006,Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force!!Armed Forces
+DP03_0007,Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!Not in labor force
+DP03_0008,Estimate!!EMPLOYMENT STATUS!!Civilian labor force
+DP03_0010,Estimate!!EMPLOYMENT STATUS!!Females 16 years and over
+DP03_0011,Estimate!!EMPLOYMENT STATUS!!Females 16 years and over!!In labor force
+DP03_0012,Estimate!!EMPLOYMENT STATUS!!Females 16 years and over!!In labor force!!Civilian labor force
+DP03_0013,Estimate!!EMPLOYMENT STATUS!!Females 16 years and over!!In labor force!!Civilian labor force!!Employed
+DP03_0014,Estimate!!EMPLOYMENT STATUS!!Own children of the householder under 6 years
+DP03_0015,Estimate!!EMPLOYMENT STATUS!!Own children of the householder under 6 years!!All parents in family in labor force
+DP03_0016,Estimate!!EMPLOYMENT STATUS!!Own children of the householder 6 to 17 years
+DP03_0017,Estimate!!EMPLOYMENT STATUS!!Own children of the householder 6 to 17 years!!All parents in family in labor force
+DP03_0018,Estimate!!COMMUTING TO WORK!!Workers 16 years and over
+DP03_0019,"Estimate!!COMMUTING TO WORK!!Workers 16 years and over!!Car, truck, or van -- drove alone"
+DP03_0020,"Estimate!!COMMUTING TO WORK!!Workers 16 years and over!!Car, truck, or van -- carpooled"
+DP03_0021,Estimate!!COMMUTING TO WORK!!Workers 16 years and over!!Public transportation (excluding taxicab)
+DP03_0022,Estimate!!COMMUTING TO WORK!!Workers 16 years and over!!Walked
+DP03_0023,Estimate!!COMMUTING TO WORK!!Workers 16 years and over!!Other means
+DP03_0024,Estimate!!COMMUTING TO WORK!!Workers 16 years and over!!Worked from home
+DP03_0025,Estimate!!COMMUTING TO WORK!!Workers 16 years and over!!Mean travel time to work (minutes)
+DP03_0026,Estimate!!OCCUPATION!!Civilian employed population 16 years and over
+DP03_0027,"Estimate!!OCCUPATION!!Civilian employed population 16 years and over!!Management, business, science, and arts occupations"
+DP03_0028,Estimate!!OCCUPATION!!Civilian employed population 16 years and over!!Service occupations
+DP03_0029,Estimate!!OCCUPATION!!Civilian employed population 16 years and over!!Sales and office occupations
+DP03_0030,"Estimate!!OCCUPATION!!Civilian employed population 16 years and over!!Natural resources, construction, and maintenance occupations"
+DP03_0031,"Estimate!!OCCUPATION!!Civilian employed population 16 years and over!!Production, transportation, and material moving occupations"
+DP03_0032,Estimate!!INDUSTRY!!Civilian employed population 16 years and over
+DP03_0033,"Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Agriculture, forestry, fishing and hunting, and mining"
+DP03_0034,Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Construction
+DP03_0035,Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Manufacturing
+DP03_0036,Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Wholesale trade
+DP03_0037,Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Retail trade
+DP03_0038,"Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Transportation and warehousing, and utilities"
+DP03_0039,Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Information
+DP03_0040,"Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Finance and insurance, and real estate and rental and leasing"
+DP03_0041,"Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Professional, scientific, and management, and administrative and waste management services"
+DP03_0042,"Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Educational services, and health care and social assistance"
+DP03_0043,"Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Arts, entertainment, and recreation, and accommodation and food services"
+DP03_0044,"Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Other services, except public administration"
+DP03_0045,Estimate!!INDUSTRY!!Civilian employed population 16 years and over!!Public administration
+DP03_0046,Estimate!!CLASS OF WORKER!!Civilian employed population 16 years and over
+DP03_0047,Estimate!!CLASS OF WORKER!!Civilian employed population 16 years and over!!Private wage and salary workers
+DP03_0048,Estimate!!CLASS OF WORKER!!Civilian employed population 16 years and over!!Government workers
+DP03_0049,Estimate!!CLASS OF WORKER!!Civilian employed population 16 years and over!!Self-employed in own not incorporated business workers
+DP03_0050,Estimate!!CLASS OF WORKER!!Civilian employed population 16 years and over!!Unpaid family workers
+DP03_0051,Estimate!!INCOME AND BENEFITS (IN 2019 INFLATION-ADJUSTED DOLLARS)!!Total households
+DP03_0052,"Estimate!!INCOME AND BENEFITS (IN 2019 INFLATION-ADJUSTED DOLLARS)!!Total households!!Less than $10,000"
+DP03_0053,"Estimate!!INCOME AND BENEFITS (IN 2019 INFLATION-ADJUSTED DOLLARS)!!Total households!!$10,000 to $14,999"
+DP03_0054,"Estimate!!INCOME AND BENEFITS (IN 2019 INFLATION-ADJUSTED DOLLARS)!!Total households!!$15,000 to $24,999"
+DP03_0055,"Estimate!!INCOME AND BENEFITS (IN 2019 INFLATION-ADJUSTED DOLLARS)!!Total households!!$25,000 to $34,999"
+DP03_0056,"Estimate!!INCOME AND BENEFITS (IN 2019 INFLATION-ADJUSTED DOLLARS)!!Total households!!$35,000 to $49,999"
+DP03_0057,"Estimate!!INCOME AND BENEFITS (IN 2019 INFLATION-ADJUSTED DOLLARS)!!Total households!!$50,000 to $74,999"
+DP03_0058,"Estimate!!INCOME AND BENEFITS (IN 2019 INFLATION-ADJUSTED DOLLARS)!!Total households!!$75,000 to $99,999"
+DP03_0059,"Estimate!!INCOME AND BENEFITS (IN 2019 INFLATION-ADJUSTED DOLLARS)!!Total households!!$100,000 to $149,999"
+DP03_0060,"Estimate!!INCOME AND BENEFITS (IN 2019 INFLATION-ADJUSTED DOLLARS)!!Total households!!$150,000 to $199,999"
+DP03_0061,"Estimate!!INCOME AND BENEFITS (IN 2019 INFLATION-ADJUSTED DOLLARS)!!Total households!!$200,000 or more"
+DP03_0064,Estimate!!INCOME AND BENEFITS (IN 2019 INFLATION-ADJUSTED DOLLARS)!!Total households!!With earnings
+DP03_0066,Estimate!!INCOME AND BENEFITS (IN 2019 INFLATION-ADJUSTED DOLLARS)!!Total households!!With Social Security
+DP03_0068,Estimate!!INCOME AND BENEFITS (IN 2019 INFLATION-ADJUSTED DOLLARS)!!Total households!!With retirement income
+DP03_0070,Estimate!!INCOME AND BENEFITS (IN 2019 INFLATION-ADJUSTED DOLLARS)!!Total households!!With Supplemental Security Income
+DP03_0072,Estimate!!INCOME AND BENEFITS (IN 2019 INFLATION-ADJUSTED DOLLARS)!!Total households!!With cash public assistance income
+DP03_0074,Estimate!!INCOME AND BENEFITS (IN 2019 INFLATION-ADJUSTED DOLLARS)!!Total households!!With Food Stamp/SNAP benefits in the past 12 months
+DP03_0075,Estimate!!INCOME AND BENEFITS (IN 2019 INFLATION-ADJUSTED DOLLARS)!!Families
+DP03_0076,"Estimate!!INCOME AND BENEFITS (IN 2019 INFLATION-ADJUSTED DOLLARS)!!Families!!Less than $10,000"
+DP03_0077,"Estimate!!INCOME AND BENEFITS (IN 2019 INFLATION-ADJUSTED DOLLARS)!!Families!!$10,000 to $14,999"
+DP03_0078,"Estimate!!INCOME AND BENEFITS (IN 2019 INFLATION-ADJUSTED DOLLARS)!!Families!!$15,000 to $24,999"
+DP03_0079,"Estimate!!INCOME AND BENEFITS (IN 2019 INFLATION-ADJUSTED DOLLARS)!!Families!!$25,000 to $34,999"
+DP03_0080,"Estimate!!INCOME AND BENEFITS (IN 2019 INFLATION-ADJUSTED DOLLARS)!!Families!!$35,000 to $49,999"
+DP03_0081,"Estimate!!INCOME AND BENEFITS (IN 2019 INFLATION-ADJUSTED DOLLARS)!!Families!!$50,000 to $74,999"
+DP03_0082,"Estimate!!INCOME AND BENEFITS (IN 2019 INFLATION-ADJUSTED DOLLARS)!!Families!!$75,000 to $99,999"
+DP03_0083,"Estimate!!INCOME AND BENEFITS (IN 2019 INFLATION-ADJUSTED DOLLARS)!!Families!!$100,000 to $149,999"
+DP03_0084,"Estimate!!INCOME AND BENEFITS (IN 2019 INFLATION-ADJUSTED DOLLARS)!!Families!!$150,000 to $199,999"
+DP03_0085,"Estimate!!INCOME AND BENEFITS (IN 2019 INFLATION-ADJUSTED DOLLARS)!!Families!!$200,000 or more"
+DP03_0095,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population
+DP03_0096,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!With health insurance coverage
+DP03_0097,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!With health insurance coverage!!With private health insurance
+DP03_0098,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!With health insurance coverage!!With public coverage
+DP03_0099,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population!!No health insurance coverage
+DP03_0100,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population under 19 years
+DP03_0101,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population under 19 years!!No health insurance coverage
+DP03_0102,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years
+DP03_0103,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!In labor force:
+DP03_0104,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!In labor force:!!Employed:
+DP03_0105,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!In labor force:!!Employed:!!With health insurance coverage
+DP03_0106,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!In labor force:!!Employed:!!With health insurance coverage!!With private health insurance
+DP03_0107,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!In labor force:!!Employed:!!With health insurance coverage!!With public coverage
+DP03_0108,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!In labor force:!!Employed:!!No health insurance coverage
+DP03_0109,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!In labor force:!!Unemployed:
+DP03_0110,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!In labor force:!!Unemployed:!!With health insurance coverage
+DP03_0111,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!In labor force:!!Unemployed:!!With health insurance coverage!!With private health insurance
+DP03_0112,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!In labor force:!!Unemployed:!!With health insurance coverage!!With public coverage
+DP03_0113,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!In labor force:!!Unemployed:!!No health insurance coverage
+DP03_0114,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!Not in labor force:
+DP03_0115,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!Not in labor force:!!With health insurance coverage
+DP03_0116,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!Not in labor force:!!With health insurance coverage!!With private health insurance
+DP03_0117,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!Not in labor force:!!With health insurance coverage!!With public coverage
+DP03_0118,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!Not in labor force:!!No health insurance coverage
+DP04_0001,Estimate!!HOUSING OCCUPANCY!!Total housing units
+DP04_0002,Estimate!!HOUSING OCCUPANCY!!Total housing units!!Occupied housing units
+DP04_0003,Estimate!!HOUSING OCCUPANCY!!Total housing units!!Vacant housing units
+DP04_0006,Estimate!!UNITS IN STRUCTURE!!Total housing units
+DP04_0007,"Estimate!!UNITS IN STRUCTURE!!Total housing units!!1-unit, detached"
+DP04_0008,"Estimate!!UNITS IN STRUCTURE!!Total housing units!!1-unit, attached"
+DP04_0009,Estimate!!UNITS IN STRUCTURE!!Total housing units!!2 units
+DP04_0010,Estimate!!UNITS IN STRUCTURE!!Total housing units!!3 or 4 units
+DP04_0011,Estimate!!UNITS IN STRUCTURE!!Total housing units!!5 to 9 units
+DP04_0012,Estimate!!UNITS IN STRUCTURE!!Total housing units!!10 to 19 units
+DP04_0013,Estimate!!UNITS IN STRUCTURE!!Total housing units!!20 or more units
+DP04_0014,Estimate!!UNITS IN STRUCTURE!!Total housing units!!Mobile home
+DP04_0015,"Estimate!!UNITS IN STRUCTURE!!Total housing units!!Boat, RV, van, etc."
+DP04_0016,Estimate!!YEAR STRUCTURE BUILT!!Total housing units
+DP04_0019,Estimate!!YEAR STRUCTURE BUILT!!Total housing units!!Built 2000 to 2009
+DP04_0020,Estimate!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1990 to 1999
+DP04_0021,Estimate!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1980 to 1989
+DP04_0022,Estimate!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1970 to 1979
+DP04_0023,Estimate!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1960 to 1969
+DP04_0024,Estimate!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1950 to 1959
+DP04_0025,Estimate!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1940 to 1949
+DP04_0026,Estimate!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1939 or earlier
+DP04_0027,Estimate!!ROOMS!!Total housing units
+DP04_0028,Estimate!!ROOMS!!Total housing units!!1 room
+DP04_0029,Estimate!!ROOMS!!Total housing units!!2 rooms
+DP04_0030,Estimate!!ROOMS!!Total housing units!!3 rooms
+DP04_0031,Estimate!!ROOMS!!Total housing units!!4 rooms
+DP04_0032,Estimate!!ROOMS!!Total housing units!!5 rooms
+DP04_0033,Estimate!!ROOMS!!Total housing units!!6 rooms
+DP04_0034,Estimate!!ROOMS!!Total housing units!!7 rooms
+DP04_0035,Estimate!!ROOMS!!Total housing units!!8 rooms
+DP04_0036,Estimate!!ROOMS!!Total housing units!!9 rooms or more
+DP04_0038,Estimate!!BEDROOMS!!Total housing units
+DP04_0039,Estimate!!BEDROOMS!!Total housing units!!No bedroom
+DP04_0040,Estimate!!BEDROOMS!!Total housing units!!1 bedroom
+DP04_0041,Estimate!!BEDROOMS!!Total housing units!!2 bedrooms
+DP04_0042,Estimate!!BEDROOMS!!Total housing units!!3 bedrooms
+DP04_0043,Estimate!!BEDROOMS!!Total housing units!!4 bedrooms
+DP04_0044,Estimate!!BEDROOMS!!Total housing units!!5 or more bedrooms
+DP04_0045,Estimate!!HOUSING TENURE!!Occupied housing units
+DP04_0046,Estimate!!HOUSING TENURE!!Occupied housing units!!Owner-occupied
+DP04_0047,Estimate!!HOUSING TENURE!!Occupied housing units!!Renter-occupied
+DP04_0057,Estimate!!VEHICLES AVAILABLE!!Occupied housing units
+DP04_0058,Estimate!!VEHICLES AVAILABLE!!Occupied housing units!!No vehicles available
+DP04_0059,Estimate!!VEHICLES AVAILABLE!!Occupied housing units!!1 vehicle available
+DP04_0060,Estimate!!VEHICLES AVAILABLE!!Occupied housing units!!2 vehicles available
+DP04_0061,Estimate!!VEHICLES AVAILABLE!!Occupied housing units!!3 or more vehicles available
+DP04_0062,Estimate!!HOUSE HEATING FUEL!!Occupied housing units
+DP04_0063,Estimate!!HOUSE HEATING FUEL!!Occupied housing units!!Utility gas
+DP04_0064,"Estimate!!HOUSE HEATING FUEL!!Occupied housing units!!Bottled, tank, or LP gas"
+DP04_0065,Estimate!!HOUSE HEATING FUEL!!Occupied housing units!!Electricity
+DP04_0066,"Estimate!!HOUSE HEATING FUEL!!Occupied housing units!!Fuel oil, kerosene, etc."
+DP04_0067,Estimate!!HOUSE HEATING FUEL!!Occupied housing units!!Coal or coke
+DP04_0068,Estimate!!HOUSE HEATING FUEL!!Occupied housing units!!Wood
+DP04_0069,Estimate!!HOUSE HEATING FUEL!!Occupied housing units!!Solar energy
+DP04_0070,Estimate!!HOUSE HEATING FUEL!!Occupied housing units!!Other fuel
+DP04_0071,Estimate!!HOUSE HEATING FUEL!!Occupied housing units!!No fuel used
+DP04_0072,Estimate!!SELECTED CHARACTERISTICS!!Occupied housing units
+DP04_0073,Estimate!!SELECTED CHARACTERISTICS!!Occupied housing units!!Lacking complete plumbing facilities
+DP04_0074,Estimate!!SELECTED CHARACTERISTICS!!Occupied housing units!!Lacking complete kitchen facilities
+DP04_0075,Estimate!!SELECTED CHARACTERISTICS!!Occupied housing units!!No telephone service available
+DP04_0076,Estimate!!OCCUPANTS PER ROOM!!Occupied housing units
+DP04_0077,Estimate!!OCCUPANTS PER ROOM!!Occupied housing units!!1.00 or less
+DP04_0078,Estimate!!OCCUPANTS PER ROOM!!Occupied housing units!!1.01 to 1.50
+DP04_0079,Estimate!!OCCUPANTS PER ROOM!!Occupied housing units!!1.51 or more
+DP04_0080,Estimate!!VALUE!!Owner-occupied units
+DP04_0081,"Estimate!!VALUE!!Owner-occupied units!!Less than $50,000"
+DP04_0082,"Estimate!!VALUE!!Owner-occupied units!!$50,000 to $99,999"
+DP04_0083,"Estimate!!VALUE!!Owner-occupied units!!$100,000 to $149,999"
+DP04_0084,"Estimate!!VALUE!!Owner-occupied units!!$150,000 to $199,999"
+DP04_0085,"Estimate!!VALUE!!Owner-occupied units!!$200,000 to $299,999"
+DP04_0086,"Estimate!!VALUE!!Owner-occupied units!!$300,000 to $499,999"
+DP04_0087,"Estimate!!VALUE!!Owner-occupied units!!$500,000 to $999,999"
+DP04_0088,"Estimate!!VALUE!!Owner-occupied units!!$1,000,000 or more"
+DP04_0090,Estimate!!MORTGAGE STATUS!!Owner-occupied units
+DP04_0091,Estimate!!MORTGAGE STATUS!!Owner-occupied units!!Housing units with a mortgage
+DP04_0092,Estimate!!MORTGAGE STATUS!!Owner-occupied units!!Housing units without a mortgage
+DP05_0001,Estimate!!SEX AND AGE!!Total population
+DP05_0002,Estimate!!SEX AND AGE!!Total population!!Male
+DP05_0003,Estimate!!SEX AND AGE!!Total population!!Female
+DP05_0005,Estimate!!SEX AND AGE!!Total population!!Under 5 years
+DP05_0006,Estimate!!SEX AND AGE!!Total population!!5 to 9 years
+DP05_0007,Estimate!!SEX AND AGE!!Total population!!10 to 14 years
+DP05_0008,Estimate!!SEX AND AGE!!Total population!!15 to 19 years
+DP05_0009,Estimate!!SEX AND AGE!!Total population!!20 to 24 years
+DP05_0010,Estimate!!SEX AND AGE!!Total population!!25 to 34 years
+DP05_0011,Estimate!!SEX AND AGE!!Total population!!35 to 44 years
+DP05_0012,Estimate!!SEX AND AGE!!Total population!!45 to 54 years
+DP05_0013,Estimate!!SEX AND AGE!!Total population!!55 to 59 years
+DP05_0014,Estimate!!SEX AND AGE!!Total population!!60 to 64 years
+DP05_0015,Estimate!!SEX AND AGE!!Total population!!65 to 74 years
+DP05_0016,Estimate!!SEX AND AGE!!Total population!!75 to 84 years
+DP05_0017,Estimate!!SEX AND AGE!!Total population!!85 years and over
+DP05_0021,Estimate!!SEX AND AGE!!Total population!!18 years and over
+DP05_0022,Estimate!!SEX AND AGE!!Total population!!21 years and over
+DP05_0023,Estimate!!SEX AND AGE!!Total population!!62 years and over
+DP05_0024,Estimate!!SEX AND AGE!!Total population!!65 years and over
+DP05_0025,Estimate!!SEX AND AGE!!Total population!!18 years and over
+DP05_0026,Estimate!!SEX AND AGE!!Total population!!18 years and over!!Male
+DP05_0027,Estimate!!SEX AND AGE!!Total population!!18 years and over!!Female
+DP05_0029,Estimate!!SEX AND AGE!!Total population!!65 years and over
+DP05_0030,Estimate!!SEX AND AGE!!Total population!!65 years and over!!Male
+DP05_0031,Estimate!!SEX AND AGE!!Total population!!65 years and over!!Female
+DP05_0033,Estimate!!RACE!!Total population
+DP05_0034,Estimate!!RACE!!Total population!!One race
+DP05_0035,Estimate!!RACE!!Total population!!Two or more races
+DP05_0036,Estimate!!RACE!!Total population!!One race
+DP05_0037,Estimate!!RACE!!Total population!!One race!!White
+DP05_0038,Estimate!!RACE!!Total population!!One race!!Black or African American
+DP05_0039,Estimate!!RACE!!Total population!!One race!!American Indian and Alaska Native
+DP05_0044,Estimate!!RACE!!Total population!!One race!!Asian
+DP05_0045,Estimate!!RACE!!Total population!!One race!!Asian!!Asian Indian
+DP05_0046,Estimate!!RACE!!Total population!!One race!!Asian!!Chinese
+DP05_0047,Estimate!!RACE!!Total population!!One race!!Asian!!Filipino
+DP05_0048,Estimate!!RACE!!Total population!!One race!!Asian!!Japanese
+DP05_0049,Estimate!!RACE!!Total population!!One race!!Asian!!Korean
+DP05_0050,Estimate!!RACE!!Total population!!One race!!Asian!!Vietnamese
+DP05_0051,Estimate!!RACE!!Total population!!One race!!Asian!!Other Asian
+DP05_0052,Estimate!!RACE!!Total population!!One race!!Native Hawaiian and Other Pacific Islander
+DP05_0053,Estimate!!RACE!!Total population!!One race!!Native Hawaiian and Other Pacific Islander!!Native Hawaiian
+DP05_0054,Estimate!!RACE!!Total population!!One race!!Native Hawaiian and Other Pacific Islander!!Guamanian or Chamorro
+DP05_0055,Estimate!!RACE!!Total population!!One race!!Native Hawaiian and Other Pacific Islander!!Samoan
+DP05_0056,Estimate!!RACE!!Total population!!One race!!Native Hawaiian and Other Pacific Islander!!Other Pacific Islander
+DP05_0057,Estimate!!RACE!!Total population!!One race!!Some other race
+DP05_0058,Estimate!!RACE!!Total population!!Two or more races
+DP05_0059,Estimate!!RACE!!Total population!!Two or more races!!White and Black or African American
+DP05_0060,Estimate!!RACE!!Total population!!Two or more races!!White and American Indian and Alaska Native
+DP05_0061,Estimate!!RACE!!Total population!!Two or more races!!White and Asian
+DP05_0062,Estimate!!RACE!!Total population!!Two or more races!!Black or African American and American Indian and Alaska Native
+DP05_0063,Estimate!!Race alone or in combination with one or more other races!!Total population
+DP05_0064,Estimate!!Race alone or in combination with one or more other races!!Total population!!White
+DP05_0065,Estimate!!Race alone or in combination with one or more other races!!Total population!!Black or African American
+DP05_0066,Estimate!!Race alone or in combination with one or more other races!!Total population!!American Indian and Alaska Native
+DP05_0067,Estimate!!Race alone or in combination with one or more other races!!Total population!!Asian
+DP05_0068,Estimate!!Race alone or in combination with one or more other races!!Total population!!Native Hawaiian and Other Pacific Islander
+DP05_0069,Estimate!!Race alone or in combination with one or more other races!!Total population!!Some other race
+DP05_0070,Estimate!!HISPANIC OR LATINO AND RACE!!Total population
+DP05_0071,Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Hispanic or Latino (of any race)
+DP05_0072,Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Hispanic or Latino (of any race)!!Mexican
+DP05_0073,Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Hispanic or Latino (of any race)!!Puerto Rican
+DP05_0074,Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Hispanic or Latino (of any race)!!Cuban
+DP05_0075,Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Hispanic or Latino (of any race)!!Other Hispanic or Latino
+DP05_0076,Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino
+DP05_0077,Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!White alone
+DP05_0078,Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Black or African American alone
+DP05_0079,Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!American Indian and Alaska Native alone
+DP05_0080,Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Asian alone
+DP05_0081,Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Native Hawaiian and Other Pacific Islander alone
+DP05_0082,Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Some other race alone
+DP05_0083,Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Two or more races
+DP05_0084,Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Two or more races!!Two races including Some other race
+DP05_0085,"Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Not Hispanic or Latino!!Two or more races!!Two races excluding Some other race, and Three or more races"
+DP05_0086,Estimate!!Total housing units
